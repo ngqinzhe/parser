@@ -19,3 +19,4 @@ User need to subscribe their addresses to `parser` service before they can try t
 ##### TODO: Cannot find any implementation in Eth golib to support query `fromAddresses` transactions.
 ##### TODO: Hook up message queue to push notifications
 ##### TODO: Store requests/responses and queried transactions into db
+##### TODO: Improve Unit Tests coverage
